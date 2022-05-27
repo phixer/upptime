@@ -22,6 +22,7 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   cname: status.phixer.net
   name: Phixer Status
+  apiBaseUrl: https://api.github.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
