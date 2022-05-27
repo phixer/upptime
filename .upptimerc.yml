@@ -15,6 +15,8 @@ sites:
     url: https://hdestates.phixer.net
   - name: photoport.net
     url: https://photoport.net
+  - name: s3zip.phixer.net
+    url: https://s3zip.phixer.net
     
 assignees: # Users to assign downtime issues (optional)
   - rad182
