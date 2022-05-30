@@ -112,7 +112,7 @@
     "url": "https://s3zip.phixer.net",
     "icon": "https://favicons.githubusercontent.com/s3zip.phixer.net",
     "slug": "s3zip-phixer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -123,6 +123,8 @@
     "timeWeek": 284,
     "timeMonth": 284,
     "timeYear": 284,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-30": 0
+    }
   }
 ]
