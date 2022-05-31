@@ -76,18 +76,20 @@
     "url": "https://hdestates.phixer.net",
     "icon": "https://favicons.githubusercontent.com/hdestates.phixer.net",
     "slug": "hdestates-phixer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 348,
-    "timeDay": 37,
-    "timeWeek": 348,
-    "timeMonth": 348,
-    "timeYear": 348,
-    "dailyMinutesDown": {}
+    "time": 527,
+    "timeDay": 1083,
+    "timeWeek": 527,
+    "timeMonth": 527,
+    "timeYear": 527,
+    "dailyMinutesDown": {
+      "2022-05-31": 0
+    }
   },
   {
     "name": "photoport.net",
@@ -119,7 +121,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 271,
+    "timeDay": 164,
     "timeWeek": 280,
     "timeMonth": 280,
     "timeYear": 280,
