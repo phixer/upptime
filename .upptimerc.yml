@@ -15,7 +15,7 @@ sites:
     url: https://hdestates.phixer.net
   - name: photoport.net
     url: https://photoport.net
-  - name: s3zip.phixer.net
+  - name: S3 Zipper
     url: $S3_SITE
     
 assignees: # Users to assign downtime issues (optional)
