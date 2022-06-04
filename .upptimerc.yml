@@ -25,6 +25,7 @@ status-website:
   cname: status.phixer.net
   name: Phixer Status
   apiBaseUrl: https://api.github.com
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
