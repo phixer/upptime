@@ -16,7 +16,7 @@ sites:
   - name: photoport.net
     url: https://photoport.net
   - name: s3zip.phixer.net
-    url: https://s3zip.phixer.net
+    url: $S3_SITE
     
 assignees: # Users to assign downtime issues (optional)
   - rad182
