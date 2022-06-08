@@ -76,19 +76,19 @@
     "url": "https://hdestates.phixer.net",
     "icon": "https://favicons.githubusercontent.com/hdestates.phixer.net",
     "slug": "hdestates-phixer-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 101,
-    "timeWeek": 139,
-    "timeMonth": 314,
-    "timeYear": 314,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 305,
+    "timeDay": 109,
+    "timeWeek": 136,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {
-      "2022-06-08": 0
+      "2022-06-08": 6
     }
   },
   {
