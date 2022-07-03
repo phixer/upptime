@@ -40,19 +40,19 @@
     "url": "https://app.phixer.net",
     "icon": "https://favicons.githubusercontent.com/app.phixer.net",
     "slug": "app-phixer-net",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 219,
-    "timeDay": 1616,
-    "timeWeek": 501,
-    "timeMonth": 239,
-    "timeYear": 219,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
+    "time": 218,
+    "timeDay": 1121,
+    "timeWeek": 460,
+    "timeMonth": 236,
+    "timeYear": 218,
     "dailyMinutesDown": {
-      "2022-07-03": 18
+      "2022-07-03": 26
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://hdestates.phixer.net",
     "icon": "https://favicons.githubusercontent.com/hdestates.phixer.net",
     "slug": "hdestates-phixer-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 46,
-    "timeWeek": 134,
-    "timeMonth": 136,
-    "timeYear": 217,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 215,
+    "timeDay": 70,
+    "timeWeek": 129,
+    "timeMonth": 135,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2022-07-03": 0
+      "2022-07-03": 8
     }
   },
   {
