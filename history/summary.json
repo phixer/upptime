@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/app.phixer.net",
     "slug": "app-phixer-net",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 219,
     "timeDay": 1616,
     "timeWeek": 501,
     "timeMonth": 239,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2022-07-03": 0
+      "2022-07-03": 18
     }
   },
   {
@@ -78,7 +78,7 @@
     "url": "https://hdestates.phixer.net",
     "icon": "https://favicons.githubusercontent.com/hdestates.phixer.net",
     "slug": "hdestates-phixer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 134,
     "timeMonth": 136,
     "timeYear": 217,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-03": 0
+    }
   },
   {
     "name": "photoport.net",
@@ -115,11 +117,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "s3-zipper",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 253,
     "timeDay": 103,
     "timeWeek": 246,
