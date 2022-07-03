@@ -40,18 +40,20 @@
     "url": "https://app.phixer.net",
     "icon": "https://favicons.githubusercontent.com/app.phixer.net",
     "slug": "app-phixer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 129,
-    "timeWeek": 129,
-    "timeMonth": 152,
-    "timeYear": 155,
-    "dailyMinutesDown": {}
+    "time": 219,
+    "timeDay": 1616,
+    "timeWeek": 501,
+    "timeMonth": 239,
+    "timeYear": 219,
+    "dailyMinutesDown": {
+      "2022-07-03": 0
+    }
   },
   {
     "name": "redfin.phixer.net",
