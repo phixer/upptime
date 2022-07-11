@@ -22,9 +22,9 @@
     "url": "https://ent.phixer.net",
     "icon": "https://favicons.githubusercontent.com/ent.phixer.net",
     "slug": "ent-phixer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 194,
     "timeMonth": 294,
     "timeYear": 289,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-11": 0
+    }
   },
   {
     "name": "app.phixer.net",
