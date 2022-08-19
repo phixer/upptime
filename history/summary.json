@@ -22,9 +22,9 @@
     "url": "https://ent.phixer.net",
     "icon": "https://favicons.githubusercontent.com/ent.phixer.net",
     "slug": "ent-phixer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 97,
     "timeMonth": 138,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-19": 0
+    }
   },
   {
     "name": "app.phixer.net",
     "url": "https://app.phixer.net",
     "icon": "https://favicons.githubusercontent.com/app.phixer.net",
     "slug": "app-phixer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -52,6 +54,7 @@
     "timeMonth": 155,
     "timeYear": 186,
     "dailyMinutesDown": {
+      "2022-08-19": 0,
       "2022-07-03": 26
     }
   },
@@ -60,9 +63,9 @@
     "url": "https://redfin.phixer.net",
     "icon": "https://favicons.githubusercontent.com/redfin.phixer.net",
     "slug": "redfin-phixer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,16 +74,18 @@
     "timeWeek": 764,
     "timeMonth": 329,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-19": 0
+    }
   },
   {
     "name": "hdestates.phixer.net",
     "url": "https://hdestates.phixer.net",
     "icon": "https://favicons.githubusercontent.com/hdestates.phixer.net",
     "slug": "hdestates-phixer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
@@ -90,6 +95,7 @@
     "timeMonth": 299,
     "timeYear": 236,
     "dailyMinutesDown": {
+      "2022-08-19": 0,
       "2022-08-10": 34
     }
   },
