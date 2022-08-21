@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 567,
-    "timeDay": 638,
-    "timeWeek": 529,
-    "timeMonth": 741,
+    "timeDay": 518,
+    "timeWeek": 569,
+    "timeMonth": 750,
     "timeYear": 567,
     "dailyMinutesDown": {}
   },
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/ent.phixer.net",
     "slug": "ent-phixer-net",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 226,
-    "timeDay": 121,
-    "timeWeek": 110,
-    "timeMonth": 134,
-    "timeYear": 226,
-    "dailyMinutesDown": {
-      "2022-08-20": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 225,
+    "timeDay": 135,
+    "timeWeek": 119,
+    "timeMonth": 132,
+    "timeYear": 225,
+    "dailyMinutesDown": {}
   },
   {
     "name": "app.phixer.net",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 186,
-    "timeDay": 173,
-    "timeWeek": 153,
-    "timeMonth": 154,
-    "timeYear": 186,
+    "time": 184,
+    "timeDay": 83,
+    "timeWeek": 145,
+    "timeMonth": 151,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2022-07-03": 26
     }
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 96,
+    "time": 197,
+    "timeDay": 89,
     "timeWeek": 698,
     "timeMonth": 319,
-    "timeYear": 198,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
-    "time": 234,
-    "timeDay": 139,
-    "timeWeek": 681,
-    "timeMonth": 292,
-    "timeYear": 234,
+    "time": 233,
+    "timeDay": 122,
+    "timeWeek": 689,
+    "timeMonth": 290,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2022-08-10": 34
     }
@@ -106,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 276,
-    "timeWeek": 232,
-    "timeMonth": 240,
-    "timeYear": 230,
+    "time": 231,
+    "timeDay": 316,
+    "timeWeek": 258,
+    "timeMonth": 247,
+    "timeYear": 231,
     "dailyMinutesDown": {}
   },
   {
@@ -124,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 268,
-    "timeDay": 368,
-    "timeWeek": 273,
-    "timeMonth": 284,
-    "timeYear": 268,
+    "time": 270,
+    "timeDay": 384,
+    "timeWeek": 305,
+    "timeMonth": 292,
+    "timeYear": 270,
     "dailyMinutesDown": {
       "2022-06-15": 17,
       "2022-06-11": 105
