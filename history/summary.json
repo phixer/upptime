@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/ent.phixer.net",
     "slug": "ent-phixer-net",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 227,
     "timeWeek": 207,
     "timeMonth": 153,
     "timeYear": 221,
-    "dailyMinutesDown": {
-      "2022-08-30": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "app.phixer.net",
@@ -44,9 +42,9 @@
     "slug": "app-phixer-net",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 183,
     "timeDay": 186,
@@ -54,7 +52,6 @@
     "timeMonth": 163,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2022-08-30": 8,
       "2022-07-03": 26
     }
   },
