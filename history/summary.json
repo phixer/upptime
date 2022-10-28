@@ -4,10 +4,10 @@
     "url": "https://www.phixer.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.phixer.net.ico",
     "slug": "phixer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
@@ -15,7 +15,9 @@
     "timeWeek": 719,
     "timeMonth": 560,
     "timeYear": 544,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 1
+    }
   },
   {
     "name": "ent.phixer.net",
@@ -98,9 +100,9 @@
     "url": "https://photoport.net",
     "icon": "https://icons.duckduckgo.com/ip3/photoport.net.ico",
     "slug": "photoport-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +111,9 @@
     "timeWeek": 282,
     "timeMonth": 239,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 0
+    }
   },
   {
     "name": "S3 Zipper",
