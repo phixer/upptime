@@ -4,9 +4,9 @@
     "url": "https://www.phixer.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.phixer.net.ico",
     "slug": "phixer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 490,
     "timeMonth": 559,
     "timeYear": 543,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-03": 0
+    }
   },
   {
     "name": "ent.phixer.net",
