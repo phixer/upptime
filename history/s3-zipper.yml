@@ -1,7 +1,7 @@
 url: $S3_SITE
-status: down
-code: 502
-responseTime: 277
-lastUpdated: 2022-11-08T09:46:46.566Z
+status: up
+code: 200
+responseTime: 174
+lastUpdated: 2022-11-08T09:54:35.940Z
 startTime: Sat Jun 04 2022 01:55:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
