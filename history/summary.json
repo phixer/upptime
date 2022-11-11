@@ -24,9 +24,9 @@
     "url": "https://ent.phixer.net",
     "icon": "https://icons.duckduckgo.com/ip3/ent.phixer.net.ico",
     "slug": "ent-phixer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 148,
     "timeMonth": 261,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-11": 0
+    }
   },
   {
     "name": "app.phixer.net",
@@ -129,7 +131,7 @@
     "time": 285,
     "timeDay": 363,
     "timeWeek": 303,
-    "timeMonth": 300,
+    "timeMonth": 305,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2022-10-26": 48,
