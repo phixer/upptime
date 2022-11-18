@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.96%",
-    "time": 538,
-    "timeDay": 625,
-    "timeWeek": 444,
-    "timeMonth": 527,
-    "timeYear": 538,
+    "time": 541,
+    "timeDay": 1102,
+    "timeWeek": 518,
+    "timeMonth": 546,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2022-11-03": 96
     }
@@ -26,15 +26,15 @@
     "slug": "ent-phixer-net",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.31%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
-    "time": 234,
-    "timeDay": 537,
-    "timeWeek": 205,
-    "timeMonth": 271,
-    "timeYear": 234,
+    "time": 233,
+    "timeDay": 105,
+    "timeWeek": 202,
+    "timeMonth": 268,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2022-11-16": 39
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 203,
-    "timeDay": 701,
-    "timeWeek": 191,
-    "timeMonth": 332,
-    "timeYear": 203,
+    "time": 202,
+    "timeDay": 40,
+    "timeWeek": 178,
+    "timeMonth": 316,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2022-07-03": 26
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 176,
-    "timeWeek": 129,
-    "timeMonth": 141,
+    "timeDay": 157,
+    "timeWeek": 121,
+    "timeMonth": 139,
     "timeYear": 176,
     "dailyMinutesDown": {}
   },
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 252,
-    "timeDay": 188,
-    "timeWeek": 109,
-    "timeMonth": 456,
-    "timeYear": 252,
+    "time": 254,
+    "timeDay": 582,
+    "timeWeek": 177,
+    "timeMonth": 466,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2022-08-10": 34
     }
@@ -109,9 +109,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 235,
-    "timeDay": 268,
-    "timeWeek": 238,
-    "timeMonth": 242,
+    "timeDay": 234,
+    "timeWeek": 231,
+    "timeMonth": 243,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2022-11-03": 53
@@ -129,9 +129,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
     "time": 285,
-    "timeDay": 371,
-    "timeWeek": 281,
-    "timeMonth": 288,
+    "timeDay": 388,
+    "timeWeek": 285,
+    "timeMonth": 291,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2022-10-26": 48,
