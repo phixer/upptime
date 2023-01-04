@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 538,
-    "timeDay": 532,
-    "timeWeek": 547,
-    "timeMonth": 530,
-    "timeYear": 538,
+    "time": 537,
+    "timeDay": 458,
+    "timeWeek": 561,
+    "timeMonth": 522,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2022-11-03": 96
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 224,
-    "timeDay": 130,
-    "timeWeek": 175,
-    "timeMonth": 170,
-    "timeYear": 224,
+    "time": 223,
+    "timeDay": 168,
+    "timeWeek": 160,
+    "timeMonth": 171,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2022-11-16": 39
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 199,
-    "timeDay": 81,
-    "timeWeek": 144,
-    "timeMonth": 208,
+    "timeDay": 182,
+    "timeWeek": 147,
+    "timeMonth": 209,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2022-07-03": 26
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 128,
-    "timeWeek": 142,
-    "timeMonth": 153,
+    "timeDay": 204,
+    "timeWeek": 139,
+    "timeMonth": 156,
     "timeYear": 170,
     "dailyMinutesDown": {}
   },
@@ -84,17 +84,16 @@
     "slug": "hdestates-phixer-net",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 240,
-    "timeDay": 169,
-    "timeWeek": 128,
-    "timeMonth": 154,
+    "timeDay": 203,
+    "timeWeek": 148,
+    "timeMonth": 159,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2023-01-03": 9,
       "2022-08-10": 34
     }
   },
@@ -109,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 249,
-    "timeDay": 144,
-    "timeWeek": 219,
-    "timeMonth": 328,
-    "timeYear": 249,
+    "time": 250,
+    "timeDay": 450,
+    "timeWeek": 244,
+    "timeMonth": 332,
+    "timeYear": 250,
     "dailyMinutesDown": {
       "2022-11-03": 53
     }
