@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phixer.net.ico",
     "slug": "phixer-net",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 526,
-    "timeDay": 417,
-    "timeWeek": 494,
-    "timeMonth": 489,
-    "timeYear": 526,
+    "uptime": "99.63%",
+    "uptimeDay": "4.74%",
+    "uptimeWeek": "86.39%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "99.63%",
+    "time": 539,
+    "timeDay": 2130,
+    "timeWeek": 943,
+    "timeMonth": 596,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2023-02-23": 0,
+      "2023-02-24": 11,
+      "2023-02-23": 1361,
       "2022-11-03": 96
     }
   },
@@ -32,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 141,
-    "timeWeek": 171,
-    "timeMonth": 156,
+    "timeDay": 177,
+    "timeWeek": 169,
+    "timeMonth": 159,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2022-11-16": 39
@@ -51,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 188,
-    "timeDay": 62,
-    "timeWeek": 125,
-    "timeMonth": 141,
-    "timeYear": 188,
+    "time": 189,
+    "timeDay": 281,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2022-07-03": 26
     }
@@ -72,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 86,
-    "timeWeek": 205,
-    "timeMonth": 300,
+    "timeDay": 261,
+    "timeWeek": 220,
+    "timeMonth": 304,
     "timeYear": 181,
     "dailyMinutesDown": {}
   },
@@ -89,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 240,
-    "timeDay": 122,
-    "timeWeek": 117,
-    "timeMonth": 291,
-    "timeYear": 240,
+    "time": 241,
+    "timeDay": 274,
+    "timeWeek": 135,
+    "timeMonth": 297,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2022-08-10": 34
     }
@@ -110,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 262,
-    "timeDay": 169,
-    "timeWeek": 301,
-    "timeMonth": 317,
+    "timeDay": 422,
+    "timeWeek": 303,
+    "timeMonth": 326,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2022-11-03": 53
