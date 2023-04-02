@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.67%",
-    "time": 518,
-    "timeDay": 473,
-    "timeWeek": 394,
-    "timeMonth": 381,
-    "timeYear": 518,
+    "time": 519,
+    "timeDay": 812,
+    "timeWeek": 459,
+    "timeMonth": 401,
+    "timeYear": 519,
     "dailyMinutesDown": {
       "2023-02-27": 155,
       "2023-02-26": 1440,
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 204,
-    "timeDay": 248,
-    "timeWeek": 167,
-    "timeMonth": 147,
-    "timeYear": 204,
+    "time": 203,
+    "timeDay": 120,
+    "timeWeek": 165,
+    "timeMonth": 149,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2022-11-16": 39
     }
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 182,
-    "timeDay": 228,
-    "timeWeek": 143,
-    "timeMonth": 136,
+    "timeDay": 173,
+    "timeWeek": 155,
+    "timeMonth": 137,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2022-07-03": 26
@@ -76,8 +76,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 142,
-    "timeWeek": 137,
+    "timeDay": 107,
+    "timeWeek": 127,
     "timeMonth": 129,
     "timeYear": 175,
     "dailyMinutesDown": {}
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 231,
-    "timeDay": 148,
-    "timeWeek": 133,
+    "time": 230,
+    "timeDay": 83,
+    "timeWeek": 141,
     "timeMonth": 138,
-    "timeYear": 231,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2022-08-10": 34
     }
@@ -113,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 264,
-    "timeDay": 357,
-    "timeWeek": 263,
-    "timeMonth": 282,
-    "timeYear": 264,
+    "time": 265,
+    "timeDay": 331,
+    "timeWeek": 291,
+    "timeMonth": 288,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2022-11-03": 53
     }
