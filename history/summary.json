@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
     "time": 518,
-    "timeDay": 472,
-    "timeWeek": 470,
-    "timeMonth": 518,
-    "timeYear": 513,
+    "timeDay": 573,
+    "timeWeek": 451,
+    "timeMonth": 520,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2023-02-27": 155,
       "2023-02-26": 1440,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 194,
-    "timeDay": 208,
-    "timeWeek": 239,
-    "timeMonth": 158,
+    "timeDay": 291,
+    "timeWeek": 134,
+    "timeMonth": 162,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2022-11-16": 39
@@ -56,10 +56,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 271,
-    "timeWeek": 137,
-    "timeMonth": 172,
-    "timeYear": 178,
+    "timeDay": 216,
+    "timeWeek": 139,
+    "timeMonth": 174,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2022-07-03": 26
     }
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 243,
-    "timeWeek": 124,
-    "timeMonth": 125,
-    "timeYear": 167,
+    "time": 167,
+    "timeDay": 497,
+    "timeWeek": 165,
+    "timeMonth": 137,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -94,10 +94,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 215,
-    "timeDay": 250,
-    "timeWeek": 135,
-    "timeMonth": 134,
-    "timeYear": 211,
+    "timeDay": 175,
+    "timeWeek": 125,
+    "timeMonth": 135,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2022-08-10": 34
     }
@@ -113,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 310,
-    "timeDay": 1161,
-    "timeWeek": 971,
-    "timeMonth": 817,
-    "timeYear": 311,
+    "time": 314,
+    "timeDay": 1600,
+    "timeWeek": 1015,
+    "timeMonth": 842,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2022-11-03": 53
     }
