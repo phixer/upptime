@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phixer.net.ico",
     "slug": "phixer-net",
     "status": "up",
-    "uptime": "98.94%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
     "time": 515,
-    "timeDay": 456,
-    "timeWeek": 486,
-    "timeMonth": 483,
-    "timeYear": 515,
+    "timeDay": 293,
+    "timeWeek": 458,
+    "timeMonth": 477,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2023-02-27": 155,
       "2023-02-26": 1440,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 191,
-    "timeDay": 121,
-    "timeWeek": 118,
-    "timeMonth": 171,
+    "timeDay": 58,
+    "timeWeek": 104,
+    "timeMonth": 170,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2022-11-16": 39
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 259,
-    "timeWeek": 117,
-    "timeMonth": 150,
+    "timeDay": 102,
+    "timeWeek": 113,
+    "timeMonth": 152,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2022-07-03": 26
@@ -76,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 117,
-    "timeWeek": 112,
-    "timeMonth": 146,
+    "timeDay": 60,
+    "timeWeek": 104,
+    "timeMonth": 145,
     "timeYear": 169,
     "dailyMinutesDown": {}
   },
@@ -94,10 +94,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 67,
-    "timeWeek": 69,
-    "timeMonth": 134,
-    "timeYear": 207,
+    "timeDay": 332,
+    "timeWeek": 111,
+    "timeMonth": 142,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2022-08-10": 34
     }
@@ -113,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 343,
-    "timeDay": 439,
-    "timeWeek": 773,
-    "timeMonth": 929,
-    "timeYear": 352,
+    "time": 344,
+    "timeDay": 898,
+    "timeWeek": 840,
+    "timeMonth": 923,
+    "timeYear": 354,
     "dailyMinutesDown": {
       "2022-11-03": 53
     }
