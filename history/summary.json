@@ -6,23 +6,21 @@
     "slug": "phixer-net",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
     "time": 518,
-    "timeDay": 579,
-    "timeWeek": 492,
-    "timeMonth": 614,
+    "timeDay": 696,
+    "timeWeek": 539,
+    "timeMonth": 628,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2023-11-02": 7,
       "2023-02-27": 155,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
-      "2023-02-23": 1361,
-      "2022-11-03": 96
+      "2023-02-23": 1361
     }
   },
   {
@@ -37,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 181,
-    "timeDay": 51,
-    "timeWeek": 141,
-    "timeMonth": 233,
+    "timeDay": 168,
+    "timeWeek": 154,
+    "timeMonth": 236,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2022-11-16": 39
@@ -57,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 74,
-    "timeWeek": 92,
-    "timeMonth": 114,
+    "timeDay": 158,
+    "timeWeek": 104,
+    "timeMonth": 117,
     "timeYear": 141,
     "dailyMinutesDown": {}
   },
@@ -75,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 73,
-    "timeWeek": 109,
-    "timeMonth": 109,
+    "timeDay": 154,
+    "timeWeek": 119,
+    "timeMonth": 111,
     "timeYear": 144,
     "dailyMinutesDown": {}
   },
@@ -93,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 107,
-    "timeWeek": 147,
-    "timeMonth": 269,
+    "timeDay": 165,
+    "timeWeek": 154,
+    "timeMonth": 272,
     "timeYear": 178,
     "dailyMinutesDown": {}
   },
@@ -110,13 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 483,
-    "timeDay": 502,
-    "timeWeek": 864,
-    "timeMonth": 866,
-    "timeYear": 571,
-    "dailyMinutesDown": {
-      "2022-11-03": 53
-    }
+    "time": 485,
+    "timeDay": 1258,
+    "timeWeek": 873,
+    "timeMonth": 867,
+    "timeYear": 574,
+    "dailyMinutesDown": {}
   }
 ]
