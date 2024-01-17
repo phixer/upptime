@@ -1,7 +1,7 @@
 url: https://redfin.phixer.net
-status: up
-code: 200
-responseTime: 228
-lastUpdated: 2024-01-16T23:01:13.242Z
+status: down
+code: 500
+responseTime: 1202
+lastUpdated: 2024-01-17T21:44:28.597Z
 startTime: 2022-05-27T05:33:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
