@@ -6,18 +6,16 @@
     "slug": "phixer-net",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 503,
     "timeDay": 510,
     "timeWeek": 441,
     "timeMonth": 453,
     "timeYear": 496,
-    "dailyMinutesDown": {
-      "2024-01-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ent.phixer.net",
@@ -26,9 +24,9 @@
     "slug": "ent-phixer-net",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 181,
     "timeDay": 233,
@@ -36,7 +34,7 @@
     "timeMonth": 174,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2024-01-17": 8
+      "2024-01-17": 16
     }
   },
   {
@@ -44,19 +42,19 @@
     "url": "https://app.phixer.net",
     "icon": "https://icons.duckduckgo.com/ip3/app.phixer.net.ico",
     "slug": "app-phixer-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 670,
-    "timeWeek": 295,
-    "timeMonth": 189,
-    "timeYear": 139,
+    "timeDay": 533,
+    "timeWeek": 291,
+    "timeMonth": 192,
+    "timeYear": 140,
     "dailyMinutesDown": {
-      "2024-01-17": 8
+      "2024-01-17": 15
     }
   },
   {
@@ -64,19 +62,19 @@
     "url": "https://redfin.phixer.net",
     "icon": "https://icons.duckduckgo.com/ip3/redfin.phixer.net.ico",
     "slug": "redfin-phixer-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 715,
-    "timeWeek": 285,
-    "timeMonth": 189,
+    "time": 148,
+    "timeDay": 587,
+    "timeWeek": 290,
+    "timeMonth": 193,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2024-01-17": 8
+      "2024-01-17": 15
     }
   },
   {
@@ -84,19 +82,19 @@
     "url": "https://hdestates.phixer.net",
     "icon": "https://icons.duckduckgo.com/ip3/hdestates.phixer.net.ico",
     "slug": "hdestates-phixer-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 724,
-    "timeWeek": 281,
-    "timeMonth": 184,
-    "timeYear": 155,
+    "time": 184,
+    "timeDay": 907,
+    "timeWeek": 391,
+    "timeMonth": 217,
+    "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 8
     }
   },
   {
@@ -106,9 +104,9 @@
     "slug": "photoport-net",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 517,
     "timeDay": 161,
@@ -116,7 +114,7 @@
     "timeMonth": 224,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2024-01-17": 8
+      "2024-01-17": 15
     }
   }
 ]
