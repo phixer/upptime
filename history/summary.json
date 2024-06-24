@@ -4,19 +4,19 @@
     "url": "https://www.phixer.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.phixer.net.ico",
     "slug": "phixer-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 521,
-    "timeDay": 280,
-    "timeWeek": 361,
-    "timeMonth": 419,
-    "timeYear": 542,
+    "timeDay": 293,
+    "timeWeek": 356,
+    "timeMonth": 416,
+    "timeYear": 541,
     "dailyMinutesDown": {
-      "2024-06-24": 0
+      "2024-06-24": 11
     }
   },
   {
