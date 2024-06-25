@@ -6,18 +6,16 @@
     "slug": "phixer-net",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 521,
     "timeDay": 293,
     "timeWeek": 356,
     "timeMonth": 416,
     "timeYear": 541,
-    "dailyMinutesDown": {
-      "2024-06-24": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ent.phixer.net",
