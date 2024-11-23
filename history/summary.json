@@ -105,18 +105,19 @@
     "url": "https://photoport.net",
     "icon": "https://icons.duckduckgo.com/ip3/photoport.net.ico",
     "slug": "photoport-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 457,
-    "timeDay": 151,
-    "timeWeek": 244,
-    "timeMonth": 474,
-    "timeYear": 325,
+    "time": 455,
+    "timeDay": 169,
+    "timeWeek": 237,
+    "timeMonth": 465,
+    "timeYear": 324,
     "dailyMinutesDown": {
+      "2024-11-23": 0,
       "2024-01-17": 25
     }
   }
