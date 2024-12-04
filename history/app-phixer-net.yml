@@ -1,7 +1,7 @@
 url: https://app.phixer.net
-status: up
-code: 200
-responseTime: 168
-lastUpdated: 2024-12-04T23:01:26.351Z
+status: down
+code: 500
+responseTime: 3584
+lastUpdated: 2024-12-04T23:31:43.972Z
 startTime: 2022-05-27T05:33:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
