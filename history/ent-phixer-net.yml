@@ -1,7 +1,7 @@
 url: https://ent.phixer.net
-status: up
-code: 200
-responseTime: 232
-lastUpdated: 2024-12-04T23:01:26.001Z
+status: down
+code: 500
+responseTime: 168
+lastUpdated: 2024-12-04T23:31:37.279Z
 startTime: 2022-05-27T05:33:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
